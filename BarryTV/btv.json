@@ -845,13 +845,13 @@
   ],
   "lives": [
     {
-      "name": "my央卫地",
+      "name": "📺CCTV",
       "type": 0,
       "url": "./jar/my央卫地.txt",
       "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}"
     },
     {
-      "name": "my央卫",
+      "name": "央卫M3U",
       "type": 0,
       "url": "./jar/my央卫.m3u",
       "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}"
