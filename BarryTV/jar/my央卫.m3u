@@ -44,8 +44,6 @@ http://cdn6.163189.xyz/163189/cctv1
 #翡翠台多源
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/翡翠台.png" group-title="港澳本地台",翡翠台
 http://o11.163189.xyz/stream/tvb/fct/
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/翡翠台.png" group-title="港澳本地台",翡翠台
-http://mytv.cdn.loc.cc/o12.php?id=fct
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/翡翠台.png" group-title="港澳本地台",翡翠台广电
 http://cdn6.163189.xyz/163189/fct
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/翡翠.png" group-title="港澳本地台",翡翠台4K
@@ -57,8 +55,6 @@ http://cdn6.163189.xyz/163189/wxxw
 http://o11.163189.xyz/stream/tvb/tvbp/
 #EXTINF:-1 tvg-name="明珠" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/明珠.png" group-title="港澳本地台",明珠台
 http://o11.163189.xyz/stream/tvb/mzt/
-#EXTINF:-1 tvg-name="明珠" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/明珠.png" group-title="港澳本地台",明珠台
-http://mytv.cdn.loc.cc/o12.php?id=mzt
 #EXTINF:-1 tvg-name="TVBJADE(HD)" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/TVB Jade (HD).png" group-title="港澳本地台",华丽翡翠台
 http://cdn6.163189.xyz/163189/jade
 #EXTINF:-1 tvg-name="翡翠一台(TVB1)" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/TVB1.png" group-title="港澳本地台",翡翠一台(TVB1)
@@ -160,21 +156,7 @@ http://cdn8.163189.xyz/163189/lhxj
 #金光布袋戏
 #EXTINF:-1 tvg-name="金光布袋戏" tvg-logo="httpsgcore.jsdelivr.net/gh/luoluowoaini/666-@main/金光布袋戏.png" group-title="港台影视付费台",金光布袋戏
 http://o11.163189.xyz/stream/live/jgbdx/
-#台湾纬来/东森
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/纬来电影.png" group-title="港台影视付费台",纬来电影台
-https://smt.1678520.xyz/163189/wldy
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/纬来戏剧.png" group-title="港台影视付费台",纬来戏剧台
-https://smt.1678520.xyz/163189/wlxj
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/纬来体育.png" group-title="港台影视付费台",纬来体育台
-https://smt.1678520.xyz/163189/wlty
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙祥时代.png" group-title="港台影视付费台",龙祥时代
-https://smt.1678520.xyz/163189/lxsd
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东森电影.png" group-title="港台影视付费台",东森电影
-https://smt.1678520.xyz/163189/dsdy
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东森戏剧.png" group-title="港台影视付费台",东森戏剧
-https://smt.1678520.xyz/163189/dsxj
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东森洋片.png" group-title="港台影视付费台",东森洋片
-https://smt.1678520.xyz/163189/dsyp
+
 
 #===================== 分组6：马来西亚ASTRO频道 =====================
 #EXTINF:-1 tvg-name="AOD" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/AOD.png" group-title="马来西亚ASTRO",ASTRO AOD
