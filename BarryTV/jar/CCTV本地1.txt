@@ -91,67 +91,68 @@
 新疆-天山天池,https://gcalic.v.myalicdn.com/gc/xjtcdhsz_1/index.m3u8
 新疆-天山天池高山湖,https://gcalic.v.myalicdn.com/gc/xjtcdgs_1/index.m3u8
 新疆-天山天池马牙山,https://gcalic.v.myalicdn.com/gc/xjtcmys_1/index.m3u8
-直播中国精编直播,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
+综合-直播中国精编直播,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
+
 
 🎯央卫咪咕,#genre#
-CCTV-01咪咕, http://rihou.cc:555/tv/[mg]CCTV-01
-CCTV-02咪咕, http://rihou.cc:555/tv/[mg]CCTV-02
-CCTV-03咪咕, http://rihou.cc:555/tv/[mg]CCTV-03
-CCTV-04咪咕, http://rihou.cc:555/tv/[mg]CCTV-04
-CCTV-05咪咕, http://rihou.cc:555/tv/[mg]CCTV-05
-CCTV-5+咪咕, http://rihou.cc:555/tv/[mg]CCTV-5p
-CCTV-06咪咕, http://rihou.cc:555/tv/[mg]CCTV-06
-CCTV-07咪咕, http://rihou.cc:555/tv/[mg]CCTV-07
-CCTV-08咪咕, http://rihou.cc:555/tv/[mg]CCTV-08
-CCTV-09咪咕, http://rihou.cc:555/tv/[mg]CCTV-09
-CCTV-10咪咕, http://rihou.cc:555/tv/[mg]CCTV-10
-CCTV-11咪咕, http://rihou.cc:555/tv/[mg]CCTV-11
-CCTV-12咪咕, http://rihou.cc:555/tv/[mg]CCTV-12
-CCTV-13咪咕, http://rihou.cc:555/tv/[mg]CCTV-13
-CCTV-14咪咕, http://rihou.cc:555/tv/[mg]CCTV-14
-CCTV-15咪咕, http://rihou.cc:555/tv/[mg]CCTV-15
-CCTV-16咪咕, http://rihou.cc:555/tv/[mg]CCTV-16
-CCTV-17咪咕, http://rihou.cc:555/tv/[mg]CCTV-17
-cct4欧洲咪咕, http://rihou.cc:555/tv/[mg]cct4%E6%AC%A7%E6%B4%B2
-cct4美洲咪咕, http://rihou.cc:555/tv/[mg]cct4%E7%BE%8E%E6%B4%B2
-CGTN-西咪咕, http://rihou.cc:555/tv/[mg]CGTN-%E8%A5%BF
-CGTN-阿咪咕, http://rihou.cc:555/tv/[mg]CGTN-%E9%98%BF
-CGTN-法咪咕, http://rihou.cc:555/tv/[mg]CGTN-%E6%B3%95
-北京卫视咪咕, http://rihou.cc:555/tv/[mg]%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86
-东方卫视咪咕, http://rihou.cc:555/tv/[mg]%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86
-浙江卫视咪咕, http://rihou.cc:555/tv/[mg]%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86
-江苏卫视咪咕, http://rihou.cc:555/tv/[mg]%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86
-湖南卫视咪咕, http://rihou.cc:555/tv/[mg]%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86
-广东卫视咪咕, http://rihou.cc:555/tv/[mg]%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86
-深圳卫视咪咕, http://rihou.cc:555/tv/[mg]%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86
-山东卫视咪咕, http://rihou.cc:555/tv/[mg]%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86
-河南卫视咪咕, http://rihou.cc:555/tv/[mg]%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86
-江西卫视咪咕, http://rihou.cc:555/tv/[mg]%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86
-湖北卫视咪咕, http://rihou.cc:555/tv/[mg]%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86
-海南卫视咪咕, http://rihou.cc:555/tv/[mg]%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86
-陕西卫视咪咕, http://rihou.cc:555/tv/[mg]%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86
-兵团卫视咪咕, http://rihou.cc:555/tv/[mg]%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86
-黑龙江视咪咕, http://rihou.cc:555/tv/[mg]%E9%BB%91%E9%BE%99%E6%B1%9F%E8%A7%86
+CCTV1, http://rihou.cc:555/tv/[mg]CCTV-01
+CCTV2, http://rihou.cc:555/tv/[mg]CCTV-02
+CCTV3, http://rihou.cc:555/tv/[mg]CCTV-03
+CCTV4, http://rihou.cc:555/tv/[mg]CCTV-04
+CCTV5, http://rihou.cc:555/tv/[mg]CCTV-05
+CCTV5+, http://rihou.cc:555/tv/[mg]CCTV-5p
+CCTV6, http://rihou.cc:555/tv/[mg]CCTV-06
+CCTV7, http://rihou.cc:555/tv/[mg]CCTV-07
+CCTV8, http://rihou.cc:555/tv/[mg]CCTV-08
+CCTV9, http://rihou.cc:555/tv/[mg]CCTV-09
+CCTV0, http://rihou.cc:555/tv/[mg]CCTV-10
+CCTV11, http://rihou.cc:555/tv/[mg]CCTV-11
+CCTV12, http://rihou.cc:555/tv/[mg]CCTV-12
+CCTV13, http://rihou.cc:555/tv/[mg]CCTV-13
+CCTV14, http://rihou.cc:555/tv/[mg]CCTV-14
+CCTV15, http://rihou.cc:555/tv/[mg]CCTV-15
+CCTV16, http://rihou.cc:555/tv/[mg]CCTV-16
+CCTV17, http://rihou.cc:555/tv/[mg]CCTV-17
+cct4欧洲, http://rihou.cc:555/tv/[mg]cct4%E6%AC%A7%E6%B4%B2
+cct4美洲, http://rihou.cc:555/tv/[mg]cct4%E7%BE%8E%E6%B4%B2
+CGTN-西, http://rihou.cc:555/tv/[mg]CGTN-%E8%A5%BF
+CGTN-阿, http://rihou.cc:555/tv/[mg]CGTN-%E9%98%BF
+CGTN-法, http://rihou.cc:555/tv/[mg]CGTN-%E6%B3%95
+北京卫视, http://rihou.cc:555/tv/[mg]%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86
+东方卫视, http://rihou.cc:555/tv/[mg]%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86
+浙江卫视, http://rihou.cc:555/tv/[mg]%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86
+江苏卫视, http://rihou.cc:555/tv/[mg]%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86
+湖南卫视, http://rihou.cc:555/tv/[mg]%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86
+广东卫视, http://rihou.cc:555/tv/[mg]%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86
+深圳卫视, http://rihou.cc:555/tv/[mg]%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86
+山东卫视, http://rihou.cc:555/tv/[mg]%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86
+河南卫视, http://rihou.cc:555/tv/[mg]%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86
+江西卫视, http://rihou.cc:555/tv/[mg]%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86
+湖北卫视, http://rihou.cc:555/tv/[mg]%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86
+海南卫视, http://rihou.cc:555/tv/[mg]%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86
+陕西卫视, http://rihou.cc:555/tv/[mg]%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86
+兵团卫视, http://rihou.cc:555/tv/[mg]%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86
+黑龙江视, http://rihou.cc:555/tv/[mg]%E9%BB%91%E9%BE%99%E6%B1%9F%E8%A7%86
 
 🏀央卫超清,#genre#
-CCTV1HD,http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
-CCTV2HD,http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
-CCTV3HD,http://38.75.136.137:98/gslb/dsdqbv/cctv3hd.m3u8?auth=test20251009
-CCTV4HD,http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
-CCTV5HD,http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
-CCTV5+HD,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
-CCTV6HD,http://38.75.136.137:98/gslb/dsdqbv/cctv6hd.m3u8?auth=test20251009
-CCTV7HD,http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009
-CCTV8HD,http://38.75.136.137:98/gslb/dsdqbv/cctv8hd.m3u8?auth=test20251009
-CCTV9HD,http://38.75.136.137:98/gslb/dsdqbv/cctv9hd.m3u8?auth=test20251009
-CCTV10HD,http://38.75.136.137:98/gslb/dsdqbv/cctv10hd.m3u8?auth=test20251009
-CCTV11HD,http://38.75.136.137:98/gslb/dsdqbv/cctv11hd.m3u8?auth=test20251009
-CCTV12HD,http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009
-CCTV13HD,http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009
-CCTV14HD,http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
-CCTV15HD,http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009
-CCTV16HD,http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
-CCTV17HD,http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
+CCTV1,http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
+CCTV2,http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
+CCTV3,http://38.75.136.137:98/gslb/dsdqbv/cctv3hd.m3u8?auth=test20251009
+CCTV4,http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
+CCTV5,http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
+CCTV5+,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
+CCTV6,http://38.75.136.137:98/gslb/dsdqbv/cctv6hd.m3u8?auth=test20251009
+CCTV7,http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009
+CCTV8,http://38.75.136.137:98/gslb/dsdqbv/cctv8hd.m3u8?auth=test20251009
+CCTV9,http://38.75.136.137:98/gslb/dsdqbv/cctv9hd.m3u8?auth=test20251009
+CCTV10,http://38.75.136.137:98/gslb/dsdqbv/cctv10hd.m3u8?auth=test20251009
+CCTV11,http://38.75.136.137:98/gslb/dsdqbv/cctv11hd.m3u8?auth=test20251009
+CCTV12,http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009
+CCTV13,http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009
+CCTV14,http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
+CCTV15,http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009
+CCTV16,http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
+CCTV17,http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
 CCTV卫生健康,http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
 CCTV央视台球,http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
 CCTV第一剧场,http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
@@ -193,6 +194,25 @@ CCTV女性时尚,http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
 中国气象,http://38.75.136.137:98/gslb/dsdqpub/zgqx.m3u8?auth=testpub
 
 📡CCTV,#genre#
+CCTV1,http://183.129.255.66:8480/hls/1/index.m3u8
+CCTV2,http://183.129.255.66:8480/hls/2/index.m3u8
+CCTV3,http://183.129.255.66:8480/hls/3/index.m3u8
+CCTV4,http://183.129.255.66:8480/hls/4/index.m3u8
+CCTV5,http://183.129.255.66:8480/hls/5/index.m3u8
+CCTV5+,http://183.129.255.66:8480/hls/6/index.m3u8
+CCTV6,http://183.129.255.66:8480/hls/7/index.m3u8
+CCTV7,http://183.129.255.66:8480/hls/8/index.m3u8
+CCTV8,http://183.129.255.66:8480/hls/9/index.m3u8
+CCTV9,http://183.129.255.66:8480/hls/10/index.m3u8
+CCTV10,http://183.129.255.66:8480/hls/11/index.m3u8
+CCTV11,http://183.129.255.66:8480/hls/12/index.m3u8
+CCTV12,http://183.129.255.66:8480/hls/13/index.m3u8
+CCTV13,http://183.129.255.66:8480/hls/14/index.m3u8
+CCTV14,http://183.129.255.66:8480/hls/15/index.m3u8
+CCTV15,http://183.129.255.66:8480/hls/16/index.m3u8
+CCTV16,http://183.129.255.66:8480/hls/17/index.m3u8
+CCTV17,http://183.129.255.66:8480/hls/18/index.m3u8
+
 CCTV1,http://hook.msen.site:8000/rtp/235.254.198.51:1480
 CCTV2,http://hook.msen.site:8000/rtp/235.254.198.52:1484
 CCTV3,http://hook.msen.site:8000/rtp/235.254.198.53:1488
@@ -229,25 +249,6 @@ CCTV14,http://129.211.14.102:27777/api.php?token=4255b7aa0936d50e5d5e5761ed8372f
 CCTV15,http://129.211.14.102:27777/api.php?token=4255b7aa0936d50e5d5e5761ed8372f1&play=UYShGMEN3bMZke5V1T0MUeU1XRNVFV1FVTBRUeq9TSNFER3FDToJ2c5NWOZp1MyIVTVRWdUJjTPFTQ90
 CCTV16,http://129.211.14.102:27777/api.php?token=4255b7aa0936d50e5d5e5761ed8372f1&play=UYShGMEN3bMZke5V1T0MUeU1XRNVFV1FVTBRUeq9TSNFER3FDToJ2c5NWOZp1MyIVTZRWdUJjTPFTQ90
 CCTV17,http://129.211.14.102:27777/api.php?token=4255b7aa0936d50e5d5e5761ed8372f1&play=UYShGMEN3bMZke5V1T0MUeU1XRNVFV1FVTBRUeq9TSNFER3FDToJ2c5NWOZp1MyIVTjRWdUJjTPFTQ90
-
-CCTV1,http://183.129.255.66:8480/hls/1/index.m3u8
-CCTV2,http://183.129.255.66:8480/hls/2/index.m3u8
-CCTV3,http://183.129.255.66:8480/hls/3/index.m3u8
-CCTV4,http://183.129.255.66:8480/hls/4/index.m3u8
-CCTV5,http://183.129.255.66:8480/hls/5/index.m3u8
-CCTV5+,http://183.129.255.66:8480/hls/6/index.m3u8
-CCTV6,http://183.129.255.66:8480/hls/7/index.m3u8
-CCTV7,http://183.129.255.66:8480/hls/8/index.m3u8
-CCTV8,http://183.129.255.66:8480/hls/9/index.m3u8
-CCTV9,http://183.129.255.66:8480/hls/10/index.m3u8
-CCTV10,http://183.129.255.66:8480/hls/11/index.m3u8
-CCTV11,http://183.129.255.66:8480/hls/12/index.m3u8
-CCTV12,http://183.129.255.66:8480/hls/13/index.m3u8
-CCTV13,http://183.129.255.66:8480/hls/14/index.m3u8
-CCTV14,http://183.129.255.66:8480/hls/15/index.m3u8
-CCTV15,http://183.129.255.66:8480/hls/16/index.m3u8
-CCTV16,http://183.129.255.66:8480/hls/17/index.m3u8
-CCTV17,http://183.129.255.66:8480/hls/18/index.m3u8
 
 CCTV1,http://61.178.227.57:9901/tsfile/live/0001_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 CCTV2,http://61.178.227.57:9901/tsfile/live/0002_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
