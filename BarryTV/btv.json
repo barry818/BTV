@@ -37,11 +37,11 @@
       "ext": "./py/腾训.png"
     },
     {
-      "key": "爱棋艺视频",
-      "name": "🐲爱妻艺｜官方",
+      "key": "奇艺视频",
+      "name": "🐲奇艺｜官方",
       "type": 3,
       "api": "./js/drpy2.min.js",
-      "ext": "./py/爱棋艺.png"
+      "ext": "./py/奇艺.png"
     },
     {
       "key": "优库视频",
