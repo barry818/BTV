@@ -48,14 +48,14 @@
       "name": "🎉优库｜官方",
       "type": 3,
       "api": "./js/drpy2.min.js",
-      "ext": "./py/优库.png"
+      "ext": "./py/优库.py"
     },
     {
       "key": "杧果视频",
       "name": "🥭杧果｜官方",
       "type": 3,
       "api": "./js/drpy2.min.js",
-      "ext": "./py/杧果.png"
+      "ext": "./py/杧果.py"
     },
     {
       "key": "逼里逼里",
