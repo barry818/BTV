@@ -844,23 +844,27 @@
     }
   ],
   "lives": [
-    {
-      "name": "📺CCTV",
-      "type": 0,
-      "url": "./jar/my央卫地.txt",
-      "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}"
+{
+   "type": 0,
+   "name": "CCTV在线",
+   "playerType": 2,
+   "ua": "okHttp/Mod-1.0.1",
+   "url": "https://fastgit.cc/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+    "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/{name}.png"
     },
     {
-      "name": "央卫M3U",
+      "name": "CCTV本地1",
       "type": 0,
-      "url": "./jar/my央卫.m3u",
-      "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}"
+      "url": "./jar/CCTV本地1.txt",
+      "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/{name}.png"
     },
     {
-      "name": "develop202",
+      "name": "CCTV本地2",
       "type": 0,
-      "url": "./jar/develop202.txt",
-      "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}"
+      "url": "./jar/CCTV本地2.m3u",
+      "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/{name}.png"
     }
   ],
   "parses": [
